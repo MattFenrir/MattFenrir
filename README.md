@@ -30,4 +30,4 @@
   
 ##
   
-  ![Snake animation](https://github.com/MattFenrir/MattFenrir/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MattFenrir/blob/output/github-contribution-grid-snake.svg)
