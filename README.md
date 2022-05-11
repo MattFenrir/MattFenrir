@@ -4,7 +4,7 @@
 - 😄 Pronomes: Ele/dele
 - ⚡ Fun fact: Meu primeiro contato com programação foi em 2011, mas estou redescobrindo esse interesse 11 anos depois.
 
-<div align="center">
+<div>
   <a href="https://github.com/MattFenrir">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MattFenrir&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattFenrir&layout=compact&langs_count=7&theme=vue-dark"/>
