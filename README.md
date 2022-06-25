@@ -14,7 +14,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Fenrir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fenrir-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Fenrir-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Fenrir-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/lV3mCFl.png">
 </div>
 
