@@ -1,8 +1,8 @@
 ## Olá! Eu me chamo Mateus, mais conhecido como Fenrir 👋
 
-- 🌱 Estudando JavaScript
 - 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: Meu primeiro contato com programação foi em 2011 com C#, mas estou redescobrindo esse interesse 11 anos depois
+- 🌱 Estudando: JavaScript
+- ⚡ Fun fact: Meu primeiro contato com programação foi em 2011, mas estou redescobrindo esse interesse 11 anos depois
 
 <div>
   <a href="https://github.com/MattFenrir">
