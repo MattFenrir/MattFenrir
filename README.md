@@ -17,6 +17,7 @@
   <img align="center" alt="Fenrir-Javascript" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
   <img align="center" alt="Fenrir-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Fenrir-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/lV3mCFl.png">
+  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
 </div>
 
 ##
