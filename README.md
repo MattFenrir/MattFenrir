@@ -3,12 +3,6 @@
 - 🌱 Estudando: React
 - ⚡ Fun fact: Meu primeiro contato com programação foi em 2011, mas estou redescobrindo esse interesse 11 anos depois
 
-<div>
-  <a href="https://github.com/MattFenrir">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MattFenrir&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattFenrir&layout=compact&langs_count=7&theme=vue-dark"/>
-  </a>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Fenrir-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
